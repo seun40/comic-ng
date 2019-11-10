@@ -1,5 +1,5 @@
-import direction from './directionx.js';
-import pegasus from './pegasus.min.js';
+import direction from './lib/directionx.js';
+import pegasus from './lib/pegasus.min.js';
 console.log('comix-ngn v2');
 class Hexstring {
     constructor(input) {
